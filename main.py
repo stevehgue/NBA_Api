@@ -46,6 +46,7 @@ def main():
                 schedule.append(m["scheduled"])
                 schedule = remove(schedule)
             print(away[0] + " @ " + home[0] + " on " + schedule)
+            print("there is some changes on my program")
     #tweet(api,"1am PEST", "LAC", "LAL")
 
 
